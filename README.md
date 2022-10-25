@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guilherme_hps
+- 👋 Hi, I’m @ghdesaxr
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate and learn about company programming model
